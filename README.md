@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramiro Zuluaga, find me as @rzuluaga18 
-- 👀 I’m interested in becoming a backend developer, in languages such as Java and Python.
+- 👀 Yo soy un desarrollador backend en formación, he venido trabajando en Java, Paython y últimamente Android Studio. Tengo conocimiento básico en HTML, JavaScript y Bootstrap en       el desarrollo Frontent
 - 🌱 I’m currently learning Java, Android Studio, Python, Git Lab han Git Hub.
 - 💞️ Currently I have not worked as a developer, but I have developed projects during my apprenticeship, you can check them out in my projects in Git Hub.
 - 📫 You can find me at:
