@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramiro Zuluaga, find me as @rzuluaga18 
-- 👀 Yo soy un desarrollador backend en formación, he venido trabajando en Java, Paython y últimamente Android Studio. Tengo conocimiento básico en HTML, JavaScript y Bootstrap en       el desarrollo Frontent
+- 👀 I am a backend developer in training, I have been working on Java, Paython and lately Android Studio. I have basic knowledge in HTML, JavaScript and Bootstrap in Frontent          development.
 - 🌱 I’m currently learning Java, Android Studio, Python, Git Lab han Git Hub.
 - 💞️ Currently I have not worked as a developer, but I have developed projects during my apprenticeship, you can check them out in my projects in Git Hub.
 - 📫 You can find me at:
